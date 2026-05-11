@@ -1,9 +1,46 @@
--👋 Hi, I’m Ivan Mateus
+👋 Hi, I'm Ivan Mateus
 
--👀 I’m interested in learn new things, and improve my codes,lol :)
+💼 Systems Analyst and ERP Developer focused on
+Protheus ecosystem.
 
--🌱 I’m currently learning java, html,angular and css. but i'm beginner inthis big tecnology world.
+🚀 About Me
 
--💞️ I’m looking to collaborate in every simple project to learn more and then the hardest projects.
+I work with enterprise solutions involving:
 
--📫 How to reach me is on my instagram (ivan.mateus), or my email (ivanmnieradka@gmail.com).
+- ADVPL / TLPP
+- TOTVS Protheus (MVC Architecture)
+- REST API Integrations
+- SQL Server & Performance Tuning
+- SmartView & Corporate Reports
+- Angular + PO-UI Applications
+- Process Automation & Monitoring
+
+I enjoy building scalable integrations, optimizing ERP processes, and creating modern solutions connected to Protheus environments.
+
+🛠 Technologies & Tools
+
+- ADVPL / TLPP
+- Protheus MVC
+- SQL Server (T-SQL)
+- REST APIs
+- Angular / TypeScript
+- Python Automation
+- SmartView
+- FWMSExcelXLSX
+- AppServer / SmartClient
+- Git
+
+📌 Current Focus
+
+Currently improving my knowledge in:
+
+- Enterprise Architecture
+- Angular Ecosystem
+- Python Automation
+- ERP Integrations
+- Performance & Monitoring
+
+📫 Contact
+
+- Instagram: @ivan.mateus
+- Email: ivanmnieradka@gmail.com
